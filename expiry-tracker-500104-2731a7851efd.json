@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "expiry-tracker-500104",
+  "private_key_id": "2731a7851efdbfb57586ece34f620b6ebea9cd81",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCCH95anMFP3bb\ngLHUCsCAKpxa3vJOALzaJodZ9QHiMK7n4dsjCemTysGE89LDTIzia5D94uPS3xkr\nd1aS7vzAivnQxowQabXJ+7IUq8awmeOjvkd2+61qao/dYQ3H/Eki/83Jm3ZUq5OG\nRttlQbV9P3FWUsZJYhKFSay7bYgjFvR1eSyADc6+8HjU4VnGSR8OQWlW2+RXaLG/\nKU8gwGeDC83SBZ3hqdVmcXCF1zFYAg8njJI3rHpwT4N+auek529T/bsfZqq8nBu6\nwOhmNY43mF0fVWLl13ycUqFhcrQtnRPWa2SAWpmPUVJgqZYkmYvr/XIYlgq5sBIu\nXTAayKKPAgMBAAECggEAAxdZNDBxU2S2ztyceKhtvToTeCj2wlyljk9wdvPJfLaS\nBbBAGNvOwDJJ6+KYXIrjk1eC0e0Dh/qYSWxaS44+PYKtqdNefYQV+/kp7QtKFj65\nBoTjnx+9VlnccRH+fTZUXcZ34RrTlMh4zjQ0DsdewmAnAro9OwOyhGJeAXskbItj\nURZp9zxO1l6ThwVX7JdDcOiu2I49pJ4JpnKuxcnrwjnXeW83fawv6d1XHgoW89SU\nE82dNjAgduBp8RszEgFBBPlCcYmDmZOGlAeEM4H1ZY2ActVaphbskC0aP164gXQb\nHLWkrTwktfha+CARINoEracjEJ8Q6peZynyM2JEJqQKBgQDxLjSAd8BXe2VzVmE5\n7SO+jeqmeNwGm+EUSa/trXdgojTQWVuKtF1Ex2oC2upIByUkCPH7EA2/zREHehNe\n88ffsn8vU0+Q6vXhXmHjBeu6XNBz3nQQY+6H1kUmTm4vuhTfo3I3/fVqp4Km7kJV\nyUZefzCexN/93H5QdOBEzR8APQKBgQDN9Kkvw0U5Fk3zNCaN+gWx83sK3z+tmUgR\nVi/FD1htwUOGxsyqN+vRDHoucw+HmBU5IUPhAVq38JNR5SsRGc522wA3QbmEL8sl\nlZD198a4ImD50mSJUjPpyEv3jyh6sK3vka0o3INVIJBF0hXPApMyrUkd1ayIym7k\nrRP2pIKuuwKBgDm5u2s8Plcx+7g9Zov8zF9hjFZH+zHBwX+fm3Ih4L7KVCXCHXz3\napN5v0/rocOXojYbxf83enL73CWT/GrvollSWcq0AAlJk4xbkMZLtn4mlOYGynTZ\n1k/A41Al2Y2m1jQo5L+uEz1x1n2p7UqnICah/rshmBMk4T7UmpEdH1xpAoGBAILF\nwAuo1LJr3DD5wyVRRP56GH2NxbQn6N/BNvHMTZzbI1JXtqq6eUyyvH3z5z90rL0q\nxxv+rSiwZAqTFeZ02WkUo61yWSZ65mXF81aK7q4KfkMCeX3MKVRfLwVQ7CYDO14r\nxKR2aBnMZG9A90ILY4XBC/UasMPmrcUbtNpeGPBzAoGARNqZsVCTMbmfdtCUJlHm\ncLwuiC4eE/KbhLhbV/svy8/3N1eEIxL1v1xzNs5qsYK1txbiqco1KRxpRy6Uxb3f\nivTenRNKLCBU6+nW08GIEwR1q3WiOg69DyF3yqglgmAG4DaBKBO+RUlwKqDLAKyN\n1Zu+C6LkysSw+ZeH8EeiXFQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "expiry-tracker@expiry-tracker-500104.iam.gserviceaccount.com",
+  "client_id": "105952370061561712011",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/expiry-tracker%40expiry-tracker-500104.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
