@@ -9,13 +9,21 @@ app.secret_key = "expirytracker123"
 # GOOGLE SHEETS
 # ==========================
 
+import os
+import json
+from google.oauth2.service_account import Credentials
+
 SCOPES = [
     "https://www.googleapis.com/auth/spreadsheets",
     "https://www.googleapis.com/auth/drive"
 ]
 
-creds = Credentials.from_service_account_file(
-    "expiry-tracker-500104-4a4ab68b36d0",
+service_account_info = json.loads(
+    os.environ["GOOGLE_CREDENTIALS"]
+)
+
+creds = Credentials.from_service_account_info(
+    service_account_info,
     scopes=SCOPES
 )
 
